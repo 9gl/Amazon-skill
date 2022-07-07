@@ -12,4 +12,6 @@ Understanding the not so clear environment of Amazon developer console
 -Understood slots, intent and Intent handler.
 ## What's next for Siri
 Build more Intents to catch different types of phrase to provide better user experience .
+<p>
 <img width="296" alt="node_led_1a" src="https://user-images.githubusercontent.com/67200542/177760386-860db7c4-82b7-4354-a0e9-3eaf7a733601.PNG">
+<p>
