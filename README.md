@@ -1,5 +1,7 @@
 # Amazon-skill
-<p><img width="318" alt="Screenshot from 2022-02-13 20-36-46" src="https://user-images.githubusercontent.com/67200542/177760824-da451125-d627-42e3-a91d-12862df2c723.png"> <p>
+<p>
+  <img width="318" alt="Screenshot from 2022-02-13 20-36-46" src="https://user-images.githubusercontent.com/67200542/177760824-da451125-d627-42e3-a91d-12862df2c723.png"> 
+<p>
 ## Inspiration
 Building voice user interfaces is a good skill to have as devices like the Amazon Echo and Google home gain popularity. 
 ## What it does
